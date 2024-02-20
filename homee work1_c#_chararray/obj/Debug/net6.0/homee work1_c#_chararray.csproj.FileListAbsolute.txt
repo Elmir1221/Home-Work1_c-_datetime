@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\bin\Debug\net6.0\homee work1_c#_chararray.exe
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\bin\Debug\net6.0\homee work1_c#_chararray.deps.json
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\bin\Debug\net6.0\homee work1_c#_chararray.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\bin\Debug\net6.0\homee work1_c#_chararray.dll
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\bin\Debug\net6.0\homee work1_c#_chararray.pdb
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\homee work1_c#_chararray.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\homee work1_c#_chararray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\homee work1_c#_chararray.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\homee work1_c#_chararray.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\homee work1_c#_chararray.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\homee work1_c#_chararray.dll
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\refint\homee work1_c#_chararray.dll
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\homee work1_c#_chararray.pdb
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\homee work1_c#_chararray.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\homee work1_c#_chararray\obj\Debug\net6.0\ref\homee work1_c#_chararray.dll

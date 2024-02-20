@@ -1,0 +1,5 @@
+C:\Users\FA507XV\Desktop\home_work\homet work1_c#_datetime\obj\Debug\net6.0\homet work1_c#_datetime.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\homet work1_c#_datetime\obj\Debug\net6.0\homet work1_c#_datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\homet work1_c#_datetime\obj\Debug\net6.0\homet work1_c#_datetime.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\homet work1_c#_datetime\obj\Debug\net6.0\homet work1_c#_datetime.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\homet work1_c#_datetime\obj\Debug\net6.0\homet work1_c#_datetime.csproj.CoreCompileInputs.cache

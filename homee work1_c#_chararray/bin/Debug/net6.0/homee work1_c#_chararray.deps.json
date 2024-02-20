@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "homee work1_c#_chararray/1.0.0": {
+        "runtime": {
+          "homee work1_c#_chararray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homee work1_c#_chararray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
